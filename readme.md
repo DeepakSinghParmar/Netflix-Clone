@@ -2,6 +2,11 @@
 
 > NetFlix Clone app built with Node.js and React-native
 
+
+### Download APK file ----
+> <a href="https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40deepaksinghparmar/Netflix-7800f632f1df4b59b2e570c049e5b816-signed.apk" > Download apk file<a/>
+
+
 # images -------
 
 <table>
@@ -25,10 +30,6 @@ npm i
 npm start
 ```
 
-
-
-### Download APK file ----
-<a href="https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40deepaksinghparmar/Netflix-7800f632f1df4b59b2e570c049e5b816-signed.apk" > Download apk file<a/>
 
 
 ### Developed By Deepak Singh Parmar
