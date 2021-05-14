@@ -1,0 +1,20 @@
+node_modules/
+.expo/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
+
+# Config
+secrets.json
+
+# Code editor
+.vscode
+jsconfig.json
